@@ -2,3 +2,6 @@
 *.obj
 *.out
 *.exe
+
+# VS Code related
+.vscode
