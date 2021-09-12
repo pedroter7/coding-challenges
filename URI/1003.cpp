@@ -1,21 +1,21 @@
 /*
-* URI 1001 - Extremely Basic
+* URI 1003 - Simple Sum
 * Solution by Pedro T Freidinger (github.com/pedroter7)
 */
 
 #include <iostream>
  
 using namespace std;
- 
+
 int main() {
- 
-    int a,b,x;
 
-    cin >> a >> b;
+    int A,B,SOMA;
 
-    x = a + b;
+    cin >> A >> B;
 
-    cout << "X = " << x << endl;
- 
+    SOMA = A+B;
+
+    cout << "SOMA = " << SOMA << endl;
+
     return 0;
 }
